@@ -1,0 +1,5 @@
+OUTPUT:
+Enter two numbers:2 4
+Before swap in main : x=2, y=4
+Inside function (after swap):a =4 ,b=2
+After swap in main : x=4,y=2
