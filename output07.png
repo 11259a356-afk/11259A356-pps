@@ -1,0 +1,12 @@
+OUTPUT:
+Enter rows and columns of matrix A: 1 1
+Enter rows and column of matrix  B: 1 1 
+Enter elements of matrix A:
+1 2
+Enter elements of matrix B:
+
+Matrix Addition:
+3
+
+Matrix Suraction:
+-1
