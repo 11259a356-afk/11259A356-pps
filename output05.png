@@ -1,0 +1,7 @@
+OUTPUT:
+Enter number of elements:2
+Enter array elements :
+21
+23
+Enter element to search:21
+element found at position 1
